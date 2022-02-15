@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6289510497533@s.whatsapp.net"],
+  "ownerName": ["IRFANFF9"],
+  "botName": "IRFANBOT",
+  "sessionName": "session",
+  "pathimg": "./media/Irfan.jpg",
+  "gamewaktu": 90,
+  "limitCount": 40,
+  "gcount": {
+	"prem": 120,
+	"user": 50
+  }
+}
